@@ -1,0 +1,11 @@
+como criar um novo projeto no vscode
+
+1) Crie uma pasta que será onde onde o projeto vai ser instalado.
+2) depois no terminal digite o comando dotnet new (tipo). Se for o que se utiliza na aula é o console, então teremos que fazer "dotnet new console".
+3) Depois deve abrir uma mensagem que lhe dirá que está faltando dois arquivos : o bin e o vscode.
+4) para rodar o programa basta fazer o "dotnet run".
+
+OBS : comandos importantes 
+- dotnet new
+- dotnet restore
+- dotnet build 
